@@ -2,7 +2,7 @@
 
 Creates a cloud frequency raster stack for every 16 days of MODIS data collection. MODIS data collected from 2000 to 2015.
 
-https://youtube.com/embed/jYICouXK9YQ
+video: https://youtube.com/embed/jYICouXK9YQ
 
 
 <p align="center">
