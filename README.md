@@ -12,6 +12,4 @@ Creates a cloud frequency raster stack for every 16 days of MODIS data collectio
 [![Alt text for your video](https://github.com/geolime/Cloud_Frequency_Remote_Sensing/blob/master/el_salvador.gif)](https://youtu.be/jYICouXK9YQ)
 
 ## Cloud Frequency Methodology
-![Alt text for your video](https://github.com/geolime/Cloud_Frequency_Remote_Sensing/blob/master/Cloud_Frequency_Methodology.png)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-111448636-2/cloud_frequency)](https://github.com/geolime/Cloud_Frequency_Remote_Sensing)
+[![Alt text](https://github.com/geolime/Cloud_Frequency_Remote_Sensing/blob/master/Cloud_Frequency_Methodology.png)
